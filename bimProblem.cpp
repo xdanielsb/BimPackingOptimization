@@ -1,6 +1,6 @@
 #include <iostream>
-
 #include "Generation.h"
+
 int main(){
 
 	int NUMBERS_ITEMS=5; //Number of object of each sample 
